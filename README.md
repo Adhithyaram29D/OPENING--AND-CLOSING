@@ -13,7 +13,10 @@ To implement Opening and Closing using Python and OpenCV.
 
  
 ## Program:
-
+```
+NAME : ADHITHYARAM D
+REG : 212222230008
+```
 ``` Python
 # Import the necessary packages
 import numpy as np
@@ -43,14 +46,14 @@ plt.axis("off")
 ## Output:
 
 ### Display the input Image
-![image](https://github.com/Adhithyaram29D/OPENING--AND-CLOSING/assets/119393540/b0d68411-2764-4a4c-9f71-2e31e1a4170e)
+<IMG SRC =" https://github.com/Adhithyaram29D/OPENING--AND-CLOSING/assets/119393540/b0d68411-2764-4a4c-9f71-2e31e1a4170e" width ="300">
 
 
 ### Display the result of Opening
-![image](https://github.com/Adhithyaram29D/OPENING--AND-CLOSING/assets/119393540/b8240d56-4850-470d-bc89-6e54591c5eaf)
+<img src = "https://github.com/Adhithyaram29D/OPENING--AND-CLOSING/assets/119393540/b8240d56-4850-470d-bc89-6e54591c5eaf" width ="300">
 
 ### Display the result of Closing
-![image](https://github.com/Adhithyaram29D/OPENING--AND-CLOSING/assets/119393540/a7aeb7d6-3310-4fed-9d7b-4525fd16b642)
+<img src= "https://github.com/Adhithyaram29D/OPENING--AND-CLOSING/assets/119393540/a7aeb7d6-3310-4fed-9d7b-4525fd16b642" width ="300">
 
 
 ## Result
