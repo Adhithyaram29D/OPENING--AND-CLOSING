@@ -46,8 +46,7 @@ plt.axis("off")
 ## Output:
 
 ### Display the input Image
-<IMG SRC =" https://github.com/Adhithyaram29D/OPENING--AND-CLOSING/assets/119393540/b0d68411-2764-4a4c-9f71-2e31e1a4170e" width ="300">
-
+<img src = "https://github.com/Adhithyaram29D/OPENING--AND-CLOSING/assets/119393540/b8240d56-4850-470d-bc89-6e54591c5eaf" width ="300">
 
 ### Display the result of Opening
 <img src = "https://github.com/Adhithyaram29D/OPENING--AND-CLOSING/assets/119393540/b8240d56-4850-470d-bc89-6e54591c5eaf" width ="300">
